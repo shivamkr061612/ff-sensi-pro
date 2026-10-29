@@ -1,0 +1,6 @@
+{
+  "name": "FF Sensi Pro",
+  "description": "Independent Free Fire sensitivity recommendation utility with real device detection, performance classification, and premium iOS glass UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
